@@ -21,10 +21,8 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/Hint_Shape_15.png": "img4.json",
 "dr/Hint_Shape_16.png": "img4.json",
 "dr/Hint_Shape_22.png": "img4.json",
-"dr/Hint_Shape_24.png": "img4.json",
 "dr/Hint_Shape_28.png": "img4.json",
 "dr/Hint_Shape_29.png": "img4.json",
-"dr/Hint_Shape_30.png": "img4.json",
 "dr/Hint_Shape_32.png": "img4.json",
 "dr/Hint_Shape_34.png": "img4.json",
 "dr/Hint_Shape_40.png": "img4.json",
@@ -33,7 +31,4 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/Hint_Shape_45.png": "img4.json",
 "dr/Hint_Shape_47.png": "img4.json",
 "dr/loading.gif": "img4.json",
-"dr/si9642.png": "img4.json",
-"dr/si9655.png": "img4.json",
-"dr/Text_Entry_Button_7.png": "img4.json",
 "___":"___"};
